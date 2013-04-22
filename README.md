@@ -3,4 +3,4 @@ The strength of the Enigma code comes from the sheer number of ciphers that can 
 with its ease of use.  The Enigma machine is the mechanical/electrical device used to encode messages
 in the Enigma code (see http://en.wikipedia.org/wiki/Enigma_machine).  
 
-This is an implementation of the Enigma machine in python.
+This is an implementation of the Enigma machine in python, just for fun!
